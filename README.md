@@ -85,7 +85,8 @@ Todo o fluxo permite a atualização e remoção, fique tranquilo.
 | classification_id | integer | Identificador da classificação | Sim | Nenhum
 | release | date | Data de lançamento do filme | Não | Nenhum
 | director_id | integer | Identificado do diretor | Não | Nenhum
-<br><br>
+<br>
+<br>
 <span style="color:#e74c3c;">FUNÇÃO:: </span>Atualizar filmes<br>
 <span style="color:#e74c3c;">MÉTODO:: </span>PUT<br>
 <span style="color:#e74c3c;">ROTA:: </span><span style="color:#666;">{{base_url}}</span>/api/filmes
