@@ -136,3 +136,10 @@ Todo o fluxo permite a atualização e remoção, fique tranquilo.
 <span style="color:#e74c3c;">FUNÇÃO:: </span>Listar um determinado ator pelo identificador<br>
 <span style="color:#e74c3c;">MÉTODO:: </span>GET<br>
 <span style="color:#e74c3c;">ROTA:: </span><span style="color:#666;">{{base_url}}</span>/api/atores/<span style="color:#666;">{{id}}</span><br>
+<br>
+<hr>
+
+# Como eu inicio a API?
+Fácil, é só rodar o comando <code>php artisan serve</code>.
+
+## E aí, vamos codar?
