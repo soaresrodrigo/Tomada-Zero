@@ -19,7 +19,7 @@ Todo o fluxo permite a atualização e remoção, fique tranquilo.
 
 ## Pronto(a) para aprender as rotas? Vamos lá!
 
-<span style="color:#3498db;">CLASSIFICAÇÕES</span>
+<span style="color:#3498db;">CLASSIFICAÇÕES</span><br>
 <span style="color:#e74c3c;">FUNÇÃO:: </span>Cadastrar classificação do filme
 <span style="color:#e74c3c;">MÉTODO:: </span>POST
 <span style="color:#e74c3c;">ROTA:: </span><span style="color:#666;">{{base_url}}</span>/api/classificacoes
